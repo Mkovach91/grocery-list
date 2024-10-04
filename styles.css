@@ -1,0 +1,62 @@
+.item {
+  width: 45%;
+  background-color: #785964;
+  padding: 10px;
+  margin: 20px;
+  border: 15px solid black;
+}
+
+#meats {
+  float: left;
+  width: 45%;
+  margin-right: 5%;
+  
+}
+#dry-goods {
+  float: left; 
+  width: 45%;
+}
+#kitchen-freezer {
+  float: left;
+  width: 45%;
+  margin-right: 5%;
+}
+#deep-freezer {
+  float: left; 
+  width: 45%;
+
+}
+#kitchen {
+  float: left;
+  width: 65%;
+}
+
+#topKitchen {
+  color: #000000;
+  border: 5px solid black;
+  width: max-content;
+  height: max-content;
+}
+
+#Freezer {
+  color: #000000;
+  border: 5px solid black;
+  width: max-content;
+  padding: 5px;
+}
+
+h2 {
+  background-color: #9ED0E6;
+}
+
+#top {
+  margin-bottom: 50rem;
+}
+
+#kitchen {
+  padding: 10px;
+}
+
+#deepFreezer {
+  padding: 10px;
+}
